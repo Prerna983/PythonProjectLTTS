@@ -21,7 +21,7 @@ def search(roll):
                     print("Year: ", row[3])
                     print("Email ID: ", row[4])
 
-        else:
+        if found == 0:
             print("\n----------------------Entry not found--------------------\n")
 
     f.close()
