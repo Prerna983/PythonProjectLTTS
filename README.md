@@ -32,4 +32,5 @@ Files               | description
 6) If the user input is '3' i.e. 'display the list', the computer displays the existing record entry in increasing roll number.
 7) If the user input is '4' i.e. delete or 'leave the college' here, the computer deletes his entry from the list.
 8) If the user input is '5', it exits from the program
+9) The loop continues until the user opts to exit from the program or enters invalid number.
 
